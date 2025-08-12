@@ -7,9 +7,10 @@
 - 📫 How to reach me **fehmiyener2003@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/fehmi-yener" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fehmi-yener" height="30" width="40" /></a>
-</p>
+<h3 style="text-align: center; font-family: Arial, sans-serif; ">
+My Linkedin Account:
+<a href="https://linkedin.com/in/fehmi-yener" target="_blank"><img align="middler" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fehmi-yener" height="20" width="30" /></a>
+</h3>
 <h3 style="text-align: center; font-family: Arial, sans-serif; ">
   My Personal Website: 
   <a href="https://fehmiyener.github.io/" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: 60;">
