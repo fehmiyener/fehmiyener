@@ -1,4 +1,4 @@
-[![MasterHead](([https://www.canva.com/design/DAGv2vd7Hjo/QBEA1Rw_dLkZEtUrRafhPA/edit?utm_content=DAGv2vd7Hjo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]))
+[![MasterHead](https://ceng.alanya.edu.tr/media/uswpwxkl/bilgisayar-banner-yazi-ile-logosuz.jpg?anchor=center&mode=crop&width=2160&height=720)
 <h1 align="center">Hi 👋, I'm Fehmi Yener</h1>
 <h3 align="center">I'm a curious and a passionate computer engineer who is open to development and learning from Turkey.</h3>
 
