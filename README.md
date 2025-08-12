@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Fehmi Yener</h1>
 <h3 align="center">I'm a curious and a passionate computer engineer who is open to development and learning from Turkey.</h3>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **Machine Learning, LLM and Data Science**
 
 - 📫 How to reach me **fehmiyener2003@gmail.com**
 
