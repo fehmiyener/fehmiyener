@@ -1,4 +1,4 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20230427170658/10-Reasons-Why-You-Should-Become-A-Software-Engineer-(1).webp)
+[![MasterHead]((https://www.canva.com/design/DAGv2vd7Hjo/QBEA1Rw_dLkZEtUrRafhPA/edit?utm_content=DAGv2vd7Hjo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 <h1 align="center">Hi 👋, I'm Fehmi Yener</h1>
 <h3 align="center">I'm a curious and a passionate computer engineer who is open to development and learning from Turkey.</h3>
 
