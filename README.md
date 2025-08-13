@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, LLM and Data Science**
 
-- 📫 How to reach me **fehmiyener2003@gmail.com**
+- 📫 How to reach me **fehmiiyener@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
 <h3 style="text-align: center; font-family: Arial, sans-serif; ">
